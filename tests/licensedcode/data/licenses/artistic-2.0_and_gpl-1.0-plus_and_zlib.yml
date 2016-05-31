@@ -1,0 +1,5 @@
+licenses:
+    - artistic-2.0
+    - gpl-1.0-plus
+    - zlib
+expected_failure: yes

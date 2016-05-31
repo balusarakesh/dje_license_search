@@ -1,0 +1,18 @@
+licenses:
+    - gpl
+    - gpl-2.0
+    - gpl
+    - gpl-2.0
+    - gpl-2.0-plus
+    - gpl-2.0
+    - gfdl-1.1
+    - adobe-scl
+    - x11-tiff
+    - mit
+    - gpl
+    - gpl-2.0
+    - lgpl-2.0
+    - gfdl
+notes: TODO refine expectations
+expected_failure: yes
+

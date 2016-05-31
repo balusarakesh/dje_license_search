@@ -1,0 +1,17 @@
+language: cpp
+
+os: 
+  - osx
+  - linux 
+
+env:
+  - TEST_SUITE: bin/py.test -n 2 -s
+  - TEST_SUITE: ./etc/release/release.sh
+
+
+install:
+    - ./configure
+
+script:
+    - $TEST_SUITE
+

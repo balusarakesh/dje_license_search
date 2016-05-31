@@ -1,0 +1,12 @@
+licenses:
+    - lgpl
+    - lgpl
+    - bsd-new
+    - gpl
+    - lgpl
+    - lgpl
+    - lgpl
+    - lgpl
+    - historical
+    - bsd-new
+expected_failure: yes

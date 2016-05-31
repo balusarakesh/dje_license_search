@@ -1,0 +1,6 @@
+licenses:
+    - bsd-new
+    - gpl-2.0
+    - gpl-3.0
+    - public-domain
+expected_failure: yes

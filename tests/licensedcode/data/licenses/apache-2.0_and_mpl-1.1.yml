@@ -1,0 +1,4 @@
+licenses:
+    - mpl-1.1
+    - apache-2.0
+expected_failure: yes
